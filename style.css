@@ -1,0 +1,103 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* Header */
+
+.title, .subtitle {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    color: #747704
+}
+
+.title {
+    font-weight: 100;
+    font-size: 38px;
+    margin-top: 28px;
+    margin-bottom: 15px;
+}
+
+.subtitle{
+    font-weight: thin;
+    font-size: 16px;
+    padding-left: 10px;
+
+}
+
+.title-logo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+/* Separator */
+
+.separator {
+
+    height: 3px;
+    margin-bottom: 25px;
+    background-color: #BCBBBB
+}
+
+/* Main Image */
+
+.main {
+    width: 100%;
+    border: 0;
+}
+/* Featured Work */
+
+.featured {
+    margin-top: 25px;
+    margin-bottom: 18px;
+    padding-left: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #BCBBBB;
+}
+/* Work Samples */
+
+.samples {
+    width: 100%;
+    border: 0px;
+    height: 200px;
+    width: 300px;
+}
+
+p {
+    color: #747704;
+}
+
+a {
+    /*text-align: center;*/
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.sampletext {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    /*text-align: center;*/
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #747704;
+}
+
+.power {
+    margin-right: 90px;
+}
+
+.pright {
+    margin-right: 43px;
+}
+
+.calm {
+    margin-left: 90px;
+}
+
+.pleft {
+    margin-left: 59px;
+}
